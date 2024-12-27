@@ -53,3 +53,8 @@ Next, we prepare the data for the machine learning model.
 
 In th Next step, we test different machine learning models to see which ones perform best and we optimize them with GridSearch. Finally, we use PCA, MDS, TSNA, and feature importance to find out which features help us the most.
 
+## last talk 
+
+I uploaded two files. In one, I looked for the best model and the best features that would create the largest PCA distance and have the most feature importance.
+
+In the other file, I selected the best features and selected two of the best models that had close accuracies. Now I will focus on hypertuning those two models to see which one is the best.
